@@ -1,0 +1,56 @@
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\Assembly-UnityScript.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.BB10.Extensions.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.LinuxStandalone.Extensions.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.Metro.Extensions.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.OSXStandalone.Extensions.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEditor.WP8.Extensions.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEngine.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\nunit.framework.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\jack\Desktop\Project Files\Latest\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\jack\Desktop\Project Files\Latest\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+C:\Users\jack\Desktop\Project Files\Latest\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\jack\Desktop\Project Files\Latest\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\Assembly-UnityScript.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.BB10.Extensions.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.LinuxStandalone.Extensions.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.Metro.Extensions.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.OSXStandalone.Extensions.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEditor.WP8.Extensions.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEngine.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\nunit.framework.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\jack\Desktop\Project-Fiver\Latest\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+C:\Users\jack\Desktop\Project-Fiver\Latest\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\jack\Desktop\Project-Fiver\Latest\obj\Debug\Assembly-CSharp-Editor.pdb

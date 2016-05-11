@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{D596D48E-7226-8067-C8AC-F1614F5C8FA0}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_0_1;UNITY_5_0;UNITY_5;UNITY_64;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\CharacterMovementController.cs" />
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\DetectionTrigger.cs" />
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\GUIScript.cs" />
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\General\CameraBumper.cs" />
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\General\CameraControl.cs" />
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\General\LimitedFloat.cs" />
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\IKScript.cs" />
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\LayerMaskExampleScript.cs" />
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\PropsUnityObject.cs" />
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\RollerBladeScript.cs" />
+     <Compile Include="Assets\Animation packs\Props Animations\Scripts\SmoothCameraAdvanced.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\Ferr2D_Animator.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\Ferr2D_DynamicMesh.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\Ferr2D_IPath.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\Ferr2D_Path.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\Ferr2D_Sprite.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\Ferr2D_Triangulator.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\LibTessDotNet\Dict.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\LibTessDotNet\Geom.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\LibTessDotNet\Mesh.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\LibTessDotNet\MeshUtils.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\LibTessDotNet\PriorityHeap.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\LibTessDotNet\PriorityQueue.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\LibTessDotNet\Sweep.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2D\Scripts\LibTessDotNet\Tess.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Examples\Assets\AutoBoxCollider.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Examples\Assets\BlobShadow.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Examples\Assets\CameraMove.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Examples\Assets\InfiniteTerrain.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Examples\Assets\InfiniteTerrainCamera.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Examples\Assets\ProceduralInsert.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Examples\Assets\Toss.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Examples\Assets\TumbleweedMotion.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Examples\Assets\TumbleweedSpawner.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Scripts\Ferr2DT_PathTerrain.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\2DTerrain\Scripts\Ferr2DT_TerrainMaterial.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\Common\Scripts\Ferr_Color.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\Common\Scripts\Ferr_JSON.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\Common\Scripts\Ferr_LambdaComparer.cs" />
+     <Compile Include="Assets\Ferr - Terrain Tool\Common\Scripts\Ferr_LogoLock.cs" />
+     <Compile Include="Assets\LoadingScreen.cs" />
+     <Compile Include="Assets\MenuText.cs" />
+     <Compile Include="Assets\Realistic Water Pack\Minimalistic Water\Script\RealisticWater.cs" />
+     <Compile Include="Assets\Realistic Water Pack\Minimalistic Water\Water Bottom - Dinamic\Script\RealisticWater_Bottom.cs" />
+     <Compile Include="Assets\Realistic Water Pack\Procedure Water\Scripts\TI_Waves.cs" />
+     <Compile Include="Assets\Scripts\AcidDelete.cs" />
+     <Compile Include="Assets\Scripts\AcidSpawn.cs" />
+     <Compile Include="Assets\Scripts\BoxGizmos.cs" />
+     <Compile Include="Assets\Scripts\CameraObj.cs" />
+     <Compile Include="Assets\Scripts\DoorScript.cs" />
+     <Compile Include="Assets\Scripts\EnemyMovement.cs" />
+     <Compile Include="Assets\Scripts\GameMgr.cs" />
+     <Compile Include="Assets\Scripts\Key.cs" />
+     <Compile Include="Assets\Scripts\KeyScript.cs" />
+     <Compile Include="Assets\Scripts\KillPlayer.cs" />
+     <Compile Include="Assets\Scripts\LeverScript.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\PlayerPhysics.cs" />
+     <Compile Include="Assets\Scripts\SpearScript.cs" />
+     <Compile Include="Assets\Scripts\TextHandler.cs" />
+     <Compile Include="Assets\Scripts\ZombieBiped.cs" />
+     <None Include="Assets\Ferr - Terrain Tool\2DTerrain\Shaders\UnlitColoredTint.shader" />
+     <None Include="Assets\Ferr - Terrain Tool\2DTerrain\Shaders\UnitColoredTransparent.shader" />
+     <None Include="Assets\Ferr - Terrain Tool\Docs\Ferr2DTerrainTool - Readme.txt" />
+     <None Include="Assets\Realistic Water Pack\Procedure Water\Material\TI Procedure Water.shader" />
+     <None Include="Assets\Ferr - Terrain Tool\2DTerrain\Shaders\LitColored.shader" />
+     <None Include="Assets\Ferr - Terrain Tool\2DTerrain\Shaders\UnlitColored.shader" />
+     <None Include="Assets\Realistic Water Pack\Minimalistic Water\Material\TI Minimalistic Water.shader" />
+     <None Include="Assets\Ferr\Common\Data\cache.txt" />
+     <None Include="Assets\Ferr - Terrain Tool\2DTerrain\Shaders\LitCommon.cginc" />
+     <None Include="Assets\Ferr - Terrain Tool\Common\Data\cache.txt" />
+     <None Include="Assets\Realistic Water Pack\Minimalistic Water\Water Bottom - Dinamic\Material\TI Minimalistic Water Bottom.shader" />
+     <None Include="Assets\Ferr - Terrain Tool\2DTerrain\Shaders\UnlitColoredTintTransparent.shader" />
+     <None Include="Assets\Ferr - Terrain Tool\2DTerrain\Shaders\LightmapColoredTransparent.shader" />
+     <None Include="Assets\Realistic Water Pack\readme.txt" />
+     <None Include="Assets\DungeonLever\misc\Dungeon_Lever_Readme.txt" />
+     <None Include="Assets\Ferr - Terrain Tool\2DTerrain\Shaders\UnlitWavyTransparent.shader" />
+     <None Include="Assets\Ferr - Terrain Tool\2D\Scripts\LibTessDotNet\LibTessDotNet-LICENSE.txt" />
+     <None Include="Assets\Ferr - Terrain Tool\2DTerrain\Shaders\LightmapColored.shader" />
+     <None Include="Assets\Ferr - Terrain Tool\2DTerrain\Shaders\LitColoredTransparent.shader" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
